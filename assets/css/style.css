@@ -1,0 +1,17 @@
+body {
+    color: red;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+display: flex;
+  }
+
+  header nav ul li {
+    display: inline;
+    float: left;
+    margin-right: 30px;
+    text-align: right;
+  }
